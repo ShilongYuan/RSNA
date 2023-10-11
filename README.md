@@ -2,7 +2,7 @@
 
 操作步骤：  
 1、运行step1_extract_raw_data.ipynb  
-这个代码和开源代码https://www.kaggle.com/code/lucasrr/rsna-generate-1024x1024-data完全一致，其它数据请参考改文件。  
+这个代码和[开源代码](https://www.kaggle.com/code/lucasrr/rsna-generate-1024x1024-data)完全一致，其它数据请参考改文件。  
 2、运行step2_crop_data.ipynb  
 这个代码里面需要对step1处理后的图片进行剪切  
 3、运行step3_tfrecord.ipynb  
